@@ -1,0 +1,116 @@
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\appsettings.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\MVC Exercises.staticwebassets.runtime.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\MVC Exercises.staticwebassets.endpoints.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\MVC Exercises.exe
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\MVC Exercises.deps.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\MVC Exercises.runtimeconfig.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\MVC Exercises.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\MVC Exercises.pdb
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\Dapper.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.csproj.AssemblyReference.cache
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.AssemblyInfoInputs.cache
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.AssemblyInfo.cs
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.csproj.CoreCompileInputs.cache
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.RazorAssemblyInfo.cache
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.RazorAssemblyInfo.cs
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\scopedcss\bundle\MVC Exercises.styles.css
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\scopedcss\projectbundle\MVC Exercises.bundle.scp.css
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\qovdnakylx-b9sayid5wm.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\jlfmuko1yb-61n19gt1b8.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\s1vu1mplwb-xtxxf3hu2r.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\ey88q8zp2r-t1cqhe9u97.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\y2bccu9iqk-c2jlpeoesf.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\6639xtyamx-sejl45xvog.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\213bwk5fdc-aexeepp0ev.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\3xrnac7wvg-xvp3kq03qx.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\al4d7iu47l-ausgxo2sd3.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\p2toh9arr3-22vffe00uq.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\odku0296uy-cosvhxvwiu.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\dgo7b8xxjf-qesaa3a1fm.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\hdpfx4di4x-fvhpjtyr6v.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\ucn39ppe6p-tmc1g35s3z.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\du841c9ag4-fsbi9cje9m.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\ksslxilz4r-rxsg74s51o.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\jaxjj89swh-ee0r1s7dh0.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\jn8xztsapv-q9ht133ko3.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\fjopqmxf7i-jd9uben2k1.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\zl6hh4s185-gye83jo8yx.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\au4h8s8fus-r4e9w2rdcm.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\4adiv4yc6e-wl58j5mj3v.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\k2lfb9o2gz-c2oey78nd0.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\8x8e4eik4c-d4r6k3f320.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\070tkl0yjw-j5mq2jizvt.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\uqjfmmmx3p-keugtjm085.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\qyw9cpko7i-nvvlpmu67g.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\o7u3wuuaik-zub09dkrxp.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\nif4cozl87-pj5nd1wqec.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\z9b7xmbhw6-43atpzeawx.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\cbscm8gfzk-v0zj4ognzu.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\5gbgvgb89d-ynyaa8k90p.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\ar6ifjiqav-hrwsygsryq.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\8oe869j9hy-c63t5i9ira.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\cjfnxmjoja-ft3s53vfgj.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\b1v0nkwp3g-4094rpi4f9.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\lk6wffz4sw-6pdc2jztkx.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\t1sezcdekd-hd3gran6i8.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\arhgx2d43d-iovd86k7lj.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\fxhyn5n3vh-ltid2c489k.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\l7y1b8dgs7-kbrnm935zg.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\9reowasfya-8vyfqsqgz1.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\lv977zmq8p-y7v9cxd14o.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\kco2kx387h-u9q1upor1n.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\tgfhohdk9z-h1s4sie4z3.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\qd83zyz03q-4d85u1mtcx.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\u9w9y4x2u5-0j3bgjxly4.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\uwrb1cspqi-03hjc8e09r.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\3taaskmhpe-48y08845bh.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\d2c9lmpjug-356vix0kms.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\l6bi3djuo9-83jwlth58m.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\j6uom1ztya-mrlpezrjn3.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\rv5bm61q6a-worgj0nhwm.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\v7yqp4msvg-gk0pw8i4co.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\yyla8yi6ox-x0q3zqp4vz.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\y0dssi87ed-d6nrnj6jjx.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\5pxz5kbetp-m9qm4tazc0.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\n047nxkiml-ttgo8qnofa.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\j3ea8rwkz8-jjsuc0puko.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\6eghcsuj7j-9vr69e8ynj.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\db8e9zsve0-87fc7y1x7t.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\ibypipx1d6-mlv21k5csn.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\73wligrqvg-gpxqborvhb.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\compressed\t0i16ofd2b-gpxqborvhb.gz
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exer.528C54E0.Up2Date
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\refint\MVC Exercises.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.pdb
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.genruntimeconfig.cache
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\ref\MVC Exercises.dll
