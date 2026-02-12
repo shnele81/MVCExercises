@@ -7,4 +7,6 @@ namespace MVC_Exercises.Data;
 public interface IProductRepository
 {
     IEnumerable<Product> GetAllProducts();
+    Product GetProduct(int id);
+
 }

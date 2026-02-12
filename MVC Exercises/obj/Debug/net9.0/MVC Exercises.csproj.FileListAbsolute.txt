@@ -114,3 +114,4 @@ C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\refint
 C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.pdb
 C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.genruntimeconfig.cache
 C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\ref\MVC Exercises.dll
+C:\Users\andy1\Desktop\repos\MVC Exercises\MVC Exercises\obj\Debug\net9.0\MVC Exercises.sourcelink.json
