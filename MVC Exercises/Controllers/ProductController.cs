@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVC_Exercises.Data;
+using MVC_Exercises.Models;
 
 namespace MVC_Exercises.Controllers;
 
@@ -22,5 +23,23 @@ public class ProductController : Controller
     {
         var product = _productRepository.GetProduct(id);
         return View(product);
+    }
+    
+    public IActionResult UpdateProduct(int id)
+    {
+        Product prod = _productRepository.GetProduct(id);
+
+        if (prod == null)
+        {
+            return View("ProductNotFound");
+        }
+        return View(prod);
+    }
+
+    public IActionResult UpdateProductToDatabase(Product product)
+    {
+        _productRepository.UpdateProduct(product);
+
+        return RedirectToAction("ViewProduct", new { id = product.ProductId });
     }
 }

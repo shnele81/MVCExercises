@@ -22,4 +22,10 @@ public class ProductRepository : IProductRepository
     {
         return _connection.QuerySingle<Product>("SELECT * FROM Products WHERE ProductId = @id", new { id = id });
     }
+
+    public void UpdateProduct(Product product)
+    {
+        _connection.Execute("UPDATE Products SET Name = @name AND Price = @price WHERE ProductId = @ProductId",
+            new { name = product.Name, price = product.Price, ProductId = product.ProductId });
+    } 
 }
