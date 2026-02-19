@@ -1,4 +1,6 @@
-﻿namespace MVC_Exercises.Models;
+﻿using System.Collections.Generic;
+
+namespace MVC_Exercises.Models;
 
 public class Product
 {
@@ -8,5 +10,7 @@ public class Product
     public int CategoryId { get; set; }
     public bool OnSale { get; set; }
     public int StockLevel { get; set; }
+    
+    public IEnumerable<Category> Categories { get; set; }
     
 }
